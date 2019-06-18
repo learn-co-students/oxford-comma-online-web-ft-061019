@@ -14,7 +14,7 @@ end
 def oxford_comma(array)
 # write an if statement
 # if statment says if length is one reutnr array by itself 
-  if array.length == 
+  if array.length == 1
     return "#{array[0]}"
     #else if length is equl to two return arra with the word and
   elsif array.length ==  2
